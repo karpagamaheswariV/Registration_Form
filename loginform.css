@@ -1,0 +1,43 @@
+
+ body {
+    background-image: url('https://images.pexels.com/photos/399161/pexels-photo-399161.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    padding: 50px 300px;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+fieldset {
+    border: 2px solid #f20ade;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+legend {
+    text-align: center;
+    font-size: 1.5em;
+    color: #c60395;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+button {
+    background-color: #ab0576;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f21a53;
+}
+
